@@ -1,3 +1,4 @@
 first
 this is the first attempt
-another 
+another
+git has a index called stage
