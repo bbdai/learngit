@@ -4,4 +4,4 @@ another
 git has a index called stage
 creat a new branch is easy and simple
 delay school
-hello
+fix bug
